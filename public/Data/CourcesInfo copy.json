@@ -1,0 +1,217 @@
+{
+    "courses":[
+        {
+            "id":"1",
+            "name":"Python Mega Course",
+            "image":"assets/img/CourcesImage/Udemy/Udemy.jpg",
+            "price":"$19",
+            "comments":"10",
+            "views":"10",
+            "comp":"Udemy",
+            "video":"path",
+            
+            "details":[{
+                "det1":{"text":"BEGINNER", "icon":"glyphicon glyphicon-stats"},
+                "det2":{"text":"LIFETIME ACCESS", "icon":"glyphicon glyphicon-bell"},
+                "det3":{"text":"6 HOURS OF VIDEO", "icon":"glyphicon glyphicon-facetime-video"},
+                "det4":{"text":"90 LESSONS", "icon":"glyphicon glyphicon-stats"},
+                "det5":{"text":"EXERCISES", "icon":"glyphicon glyphicon-stats"},
+                "det6":{"text":"DOWNLOADABLE", "icon":"glyphicon glyphicon-stats"},
+                "det7":{"text":"SUBTITLES", "icon":"glyphicon glyphicon-stats"},
+                "det8":{"text":"ACCESS ON MOBILE/TV", "icon":"glyphicon glyphicon-stats"},
+                "det9":{"text":"CERTIFICATE", "icon":"glyphicon glyphicon-stats"}
+            }
+            ]
+        },
+        {
+            "id":"2",
+            "name":"Full React Course",
+            "image":"assets/img/CourcesImage/Udemy/Udemy2.jpg",
+            "price":"$20",
+            "comments":"8",
+            "views":"90",
+            "comp":"Udemy",
+            "video":"path",
+            "details":{
+                "det1":{"text":"BEGINNER", "icon":4},
+                "det2":{"text":"LIFETIME ACCESS", "icon":4},
+                "det3":{"text":"10 HOURS OF VIDEO", "icon":4},
+                "det4":{"text":"50 LESSONS", "icon":4},
+                "det5":{"text":"EXERCISES", "icon":4},
+                "det6":{"text":"DOWNLOADABLE", "icon":4},
+                "det7":{"text":"SUBTITLES", "icon":4},
+                "det8":{"text":"ACCESS ON MOBILE/TV", "icon":4},
+                "det9":{"text":"CERTIFICATE", "icon":4}
+            }
+        },
+        {
+            "id":"3",
+            "name":"DL Python Course",
+            "image":"assets/img/CourcesImage/Udemy/Udemy3.jpg",
+            "price":"$10",
+            "comments":"20",
+            "views":"90",
+            "comp":"Udemy",
+            "video":"path",
+            "details":{
+                "det1":{"text":"BEGINNER", "icon":4},
+                "det2":{"text":"LIFETIME ACCESS", "icon":4},
+                "det3":{"text":"8 HOURS OF VIDEO", "icon":4},
+                "det4":{"text":"30 LESSONS", "icon":4},
+                "det5":{"text":"EXERCISES", "icon":4},
+                "det6":{"text":"DOWNLOADABLE", "icon":4},
+                "det7":{"text":"SUBTITLES", "icon":4},
+                "det8":{"text":"ACCESS ON MOBILE/TV", "icon":4},
+                "det9":{"text":"CERTIFICATE", "icon":4}
+            }
+        },
+        {
+            "id":"4",
+            "name":"HTML/CSS Mastery",
+            "image":"assets/img/CourcesImage/XTeam/AI.jpg",
+            "price":"$19",
+            "comments":"10",
+            "views":"90",
+            "comp":"X-Team",
+            "video":"path",
+            "details":{
+                "det1":{"text":"BEGINNER", "icon":4},
+                "det2":{"text":"LIFETIME ACCESS", "icon":4},
+                "det3":{"text":"16 HOURS OF VIDEO", "icon":4},
+                "det4":{"text":"80 LESSONS", "icon":4},
+                "det5":{"text":"EXERCISES", "icon":4},
+                "det6":{"text":"DOWNLOADABLE", "icon":4},
+                "det7":{"text":"SUBTITLES", "icon":4},
+                "det8":{"text":"ACCESS ON MOBILE/TV", "icon":4},
+                "det9":{"text":"CERTIFICATE", "icon":4}
+            }
+        },
+        {
+            "id":"5",
+            "name":"Learn Flutter",
+            "image":"assets/img/CourcesImage/XTeam/Flutter.jpg",
+            "price":"$10",
+            "comments":"10",
+            "views":"80",
+            "comp":"X-Team",
+            "video":"path",
+            "details":{
+                "det1":{"text":"BEGINNER", "icon":4},
+                "det2":{"text":"LIFETIME ACCESS", "icon":4},
+                "det3":{"text":"8 HOURS OF VIDEO", "icon":4},
+                "det4":{"text":"90 LESSONS", "icon":4},
+                "det5":{"text":"EXERCISES", "icon":4},
+                "det6":{"text":"DOWNLOADABLE", "icon":4},
+                "det7":{"text":"SUBTITLES", "icon":4},
+                "det8":{"text":"ACCESS ON MOBILE/TV", "icon":4},
+                "det9":{"text":"CERTIFICATE", "icon":4}
+            }
+        },
+        {
+            "id":"6",
+            "name":"Full Stack Course",
+            "image":"assets/img/CourcesImage/XTeam/fullstack.jpg",
+            "price":"$70",
+            "comments":"70",
+            "views":"30",
+            "comp":"X-Team",
+            "video":"path",
+            "details":{
+                "det1":{"text":"BEGINNER", "icon":4},
+                "det2":{"text":"LIFETIME ACCESS", "icon":4},
+                "det3":{"text":"6 HOURS OF VIDEO", "icon":4},
+                "det4":{"text":"90 LESSONS", "icon":4},
+                "det5":{"text":"EXERCISES", "icon":4},
+                "det6":{"text":"DOWNLOADABLE", "icon":4},
+                "det7":{"text":"SUBTITLES", "icon":4},
+                "det8":{"text":"ACCESS ON MOBILE/TV", "icon":4},
+                "det9":{"text":"CERTIFICATE", "icon":4}
+            }
+        },
+        {
+            "id":"7",
+            "name":"Angular Series",
+            "image":"assets/img/CourcesImage/Mosh/angular.jpg",
+            "price":"$39",
+            "comments":"20",
+            "views":"20",
+            "comp":"Mosh",
+            "video":"path",
+            "details":{
+                "det1":{"text":"BEGINNER", "icon":4},
+                "det2":{"text":"LIFETIME ACCESS", "icon":4},
+                "det3":{"text":"7 HOURS OF VIDEO", "icon":4},
+                "det4":{"text":"70 LESSONS", "icon":4},
+                "det5":{"text":"EXERCISES", "icon":4},
+                "det6":{"text":"DOWNLOADABLE", "icon":4},
+                "det7":{"text":"SUBTITLES", "icon":4},
+                "det8":{"text":"ACCESS ON MOBILE/TV", "icon":4},
+                "det9":{"text":"CERTIFICATE", "icon":4}
+            }
+        },
+        {
+            "id":"8",
+            "name":"HTML/CSS Mastery",
+            "image":"assets/img/CourcesImage/Mosh/Html.jpg",
+            "price":"$48",
+            "comments":"60",
+            "views":"20",
+            "comp":"Mosh",
+            "video":"path",
+            "details":{
+                "det1":{"text":"BEGINNER", "icon":4},
+                "det2":{"text":"LIFETIME ACCESS", "icon":4},
+                "det3":{"text":"20 HOURS OF VIDEO", "icon":4},
+                "det4":{"text":"100 LESSONS", "icon":4},
+                "det5":{"text":"EXERCISES", "icon":4},
+                "det6":{"text":"DOWNLOADABLE", "icon":4},
+                "det7":{"text":"SUBTITLES", "icon":4},
+                "det8":{"text":"ACCESS ON MOBILE/TV", "icon":4},
+                "det9":{"text":"CERTIFICATE", "icon":4}
+            }
+        },
+        {
+            "id":"9",
+            "name":"Doker Course",
+            "image":"assets/img/CourcesImage/Mosh/Python.jpg",
+            "price":"$80",
+            "comments":"25",
+            "views":"10",
+            "comp":"Mosh",
+            "video":"path",
+            "details":{
+                "det1":{"text":"BEGINNER", "icon":4},
+                "det2":{"text":"LIFETIME ACCESS", "icon":4},
+                "det3":{"text":"7 HOURS OF VIDEO", "icon":4},
+                "det4":{"text":"100 LESSONS", "icon":4},
+                "det5":{"text":"EXERCISES", "icon":4},
+                "det6":{"text":"DOWNLOADABLE", "icon":4},
+                "det7":{"text":"SUBTITLES", "icon":4},
+                "det8":{"text":"ACCESS ON MOBILE/TV", "icon":4},
+                "det9":{"text":"CERTIFICATE", "icon":4}
+            }
+            
+        },
+        {
+            "id":"10",
+            "name":"C# Course",
+            "image":"assets/img/CourcesImage/Mosh/CSharp.jpg",
+            "price":"$80",
+            "comments":"25",
+            "views":"10",
+            "comp":"Mosh",
+            "video":"path",
+            "details":{
+                "det1":{"text":"BEGINNER", "icon":4},
+                "det2":{"text":"LIFETIME ACCESS", "icon":4},
+                "det3":{"text":"7 HOURS OF VIDEO", "icon":4},
+                "det4":{"text":"100 LESSONS", "icon":4},
+                "det5":{"text":"EXERCISES", "icon":4},
+                "det6":{"text":"DOWNLOADABLE", "icon":4},
+                "det7":{"text":"SUBTITLES", "icon":4},
+                "det8":{"text":"ACCESS ON MOBILE/TV", "icon":4},
+                "det9":{"text":"CERTIFICATE", "icon":4}
+            }
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+/*--------------------------------------------------------------
+# Breadcrumbs
+--------------------------------------------------------------*/
+.breadcrumbs {
+    padding: 15px 0;
+    background: #2b2b2b;
+    min-height: 40px;
+    margin-top: 82px;
+    color: #fff;
+  }
+  .breadcrumbs h2 {
+    font-size: 28px;
+    font-weight: 500;
+  }
+  .breadcrumbs ol {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    padding: 0 0 10px 0;
+    margin: 0;
+    font-size: 14px;
+  }
+  .breadcrumbs ol a {
+    color: #aaaaaa;
+  }
+  .breadcrumbs ol a:hover {
+    color: #fff;
+    transition: 0.3s;
+  }
+  .breadcrumbs ol li + li {
+    padding-left: 10px;
+  }
+  .breadcrumbs ol li + li::before {
+    display: inline-block;
+    padding-right: 10px;
+    color: #e03a3c;
+    content: "/";
+  }
+  /* Input Search Bar */
+  .form-inputs {
+    position: relative
+}
+
+.form-inputs .form-control {
+    height: 45px
+}
+
+.form-inputs .form-control:focus {
+    box-shadow: none;
+    border: 1px solid #000
+}
+
+.form-inputs i {
+    position: absolute;
+    right: 10px;
+    top: 15px
+}
+
+.shop-bag {
+    background-color: #000;
+    color: #fff;
+    height: 50px;
+    width: 50px;
+    font-size: 25px;
+    display: flex;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center
+}
+
+.qty {
+    font-size: 12px
+}
